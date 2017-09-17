@@ -1,0 +1,40 @@
+html {
+    font-size: 10px; /* px 意为“像素（pixels）”: 这个基础字体的尺寸现在是10像素  */
+    font-family: 'Pacifico', cursive;
+    background-color:whitesmoke;
+  }
+a:hover {
+    color: red;
+    width: 500px;
+    border: 1px solid black; 
+  
+  }
+  a,p, li {
+    font-size: 20px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    background-color: yellow;
+    border: 5px solid black;
+  }
+  h1 {
+    font-size: 40px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 200px;    
+    color: red;
+    text-shadow: 3px 3px 1px black;
+  }
+  h2 {
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 220px;    
+  
+  }
+  img {
+    display: block;
+    margin: 0 auto;  
+  }
