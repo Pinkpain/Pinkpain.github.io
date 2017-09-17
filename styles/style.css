@@ -1,7 +1,7 @@
 html {
     font-size: 10px; /* px 意为“像素（pixels）”: 这个基础字体的尺寸现在是10像素  */
     font-family: 'Pacifico', cursive;
-    background-color:whitesmoke;
+    background-color:burlywood;
   }
 a:hover {
     color: red;
@@ -18,7 +18,7 @@ a:hover {
     width: 600px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
-    background-color: yellow;
+    background-color: whitesmoke;
     border: 5px solid black;
   }
   h1 {
@@ -29,7 +29,7 @@ a:hover {
     text-shadow: 3px 3px 1px black;
   }
   h2 {
-    font-size: 15px;
+    font-size: 20px;
     margin: 0 auto;
     padding: 20px 20px 20px 220px;    
   
